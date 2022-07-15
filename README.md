@@ -1,5 +1,7 @@
 # WatchDog-Face-Detection-AI
-This small software uses the webcam on your PC, and looks to identify faces.  
+This small software uses the webcam on your PC, and looks to identify faces.
+
+I am using Windows10 and Visual Studio Code, and tested fine.
 
 When a face is identified in a frame, the frame will be added to the Video file that the program creates. 
 If selected, the WatchDog also sends e-mail of the captured faces.   
